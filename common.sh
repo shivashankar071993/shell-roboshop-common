@@ -8,6 +8,7 @@ G="\e[32m"
 Y="\e[33m"
 N="\e[0m"
 
+SCRIPT_DIR=$PWD
 MONGODB_HOST="mongodb.daws8s.shop"
 
 USERID=$(id -u)
